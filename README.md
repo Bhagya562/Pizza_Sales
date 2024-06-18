@@ -4,7 +4,8 @@ Overview
 The analysis of pizza sales using SQL involes the various sales trends,Hourly& day-to-day analysis, category wise analysis and many more. Undercover different insights into ccustomer preferences and choices.
 
 Introduction to deep note
-THis project is done using Completly excel formulals, functions & SSMS.
+
+This project is done using Completly excel formulals, functions & SSMS.
 
 Analysis setps
 Set up a database in SSMS local server: import the pizza sales.csv in the database 
